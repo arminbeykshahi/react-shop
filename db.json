@@ -1,0 +1,117 @@
+{
+  "posts": [
+    { 
+    "id": 1,
+    "name": "پژو 207",
+    "tedad" : 1,
+    "brand" :"irankhodro",
+    "price" : 850000000,
+    "image": "https://akharinkhodro.ir/wp-content/uploads/2023/07/peugeot-207-tu3-11.webp",
+    "features": "رنگ سفید – دنده دستی – سقف شیشه ای – فرمان هیدرولیک – موتور tu5 – 2 ایربگ – ترمز ABS  - 4 سیلند – 105 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ آلومینیومی – مانیتور لمسی – کروز کنترل " 
+    },
+
+    {
+     "id": 2,
+     "name": "دنا پلاس ",
+     "tedad" : 1,
+     "brand": "irankhodro",
+     "price" : 900000000,
+     "image": "https://cdn.eghtesadnews.com/thumbnail/HcdgkBGKBc49/mW4TY_vzMeEG1fqb61-mcCKrGYGcOSm4SW9Yyhl5b2N1qvFeEPKLcFkzrdrrAcG9cg9gAf9kJWJmze2Es8GZhDlkJqwVKQrtGurXERhoGtQ,/%D8%AF%D9%86%D8%A7+%D9%BE%D9%84%D8%A7%D8%B3.jpg",
+     "features": "رنگ مشکی – دنده اتوماتیک – سقف فلزی – فرمان برقی – موتور ef7+ – 2 ایربگ – ترمز ABS  - 4 سیلند – 150 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ آلومینیومی – مانیتور لمسی – کروز کنترل" 
+    },
+
+    {
+     "id": 3,
+     "name": "شاهین پلاس ",
+     "tedad" : 1,
+     "brand": "saipa",
+     "price" : 950000000,
+     "image": "https://akharinkhodro.ir/wp-content/uploads/2024/07/Saipa-Shahin-Plus-Test-20-1000x563.jpg",
+     "features": "رنگ سفید – دنده اتوماتیک – سقف فلزی – فرمان برقی – موتور tu5+ – 2 ایربگ – ترمز ABS  - 4 سیلند – 150 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ آلومینیومی – مانیتور لمسی – کروز کنترل "
+    },
+
+    {
+     "id": 4,
+     "name": " کوییک ",
+     "tedad" : 1,
+     "brand": "saipa",
+     "price" : 500000000,
+     "image": "https://cdn.saranemag.ir/thumbnail/Go2NZ7BCOyhF/fFYOv_g61-QYmPAqXuOhh0O6GdInBYt8P8M6OZWR9UvGz6d7OhGe9fHkSA-IDzrY7JQvD5XqUvKd_KmiLZl_9p28JQ2cQ4obk1ipwmtBtOo2JbGzpZS8Se0uJG2pgOKJSz7_VVx9aSVkxmyIQV4Fxg,,/%DA%A9%D9%88%DB%8C%DB%8C%DA%A9.jpg",
+     "features": "رنگ سفید – دنده دستی – سقف فلزی – فرمان هیدرولیک – موتورme15– 2 ایربگ – ترمز ABS  - 4 سیلند – 90 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ فولادی – مانیتور لمسی – کروز کنترل "
+    },
+
+    {
+     "id": 5,
+     "name": " رانا پلاس ",
+     "tedad" : 1,
+     "brand": "irankhodro",
+     "price" : 700000000,
+     "image": "https://akharinkhodro.ir/wp-content/uploads/2023/10/ikco-runna-plus-32-1000x563.jpg",
+     "features": "رنگ نقره ای – دنده دستی – سقف شیشه ای – فرمان برقی – موتور tu5+ – 2 ایربگ – ترمز ABS  - 4 سیلند – 113 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ فولادی – مانیتور لمسی – کروز کنترل"
+    },
+
+     
+    {
+     "id": 6,
+     "name": " تارا ",
+     "tedad" : 1,
+     "brand": "irankhodro",
+     "price" : 950000000,
+     "image": "https://api2.zoomit.ir/media/2020-7-13702b90-972a-4836-beb4-233ecb978ed0-638bb28e8b369136d4586a05?w=828&q=80",
+     "features": "رنگ سفید – دنده اتوماتیک – سقف فلزی – فرمان برقی – موتور tu5+ – 2 ایربگ – ترمز ABS  - 4 سیلند – 113 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ آلومینیومی – مانیتور لمسی – کروز کنترل "
+    },
+
+     {
+     "id": 7,
+     "name": " ریرا ",
+     "tedad" : 1,
+     "brand": "irankhodro",
+     "price" : 1200000000,
+     "image": "https://automobilefarsi.com/images/aks/1403/05/AutomobileFarsi-Rira-14030522.webp",
+     "features": "رنگ آبی – دنده اتوماتیک – سقف فلزی – فرمان برقی – موتور ef7+– 2 ایربگ – ترمز ABS  - 4 سیلند – 150 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ آلومینیومی – مانیتور لمسی – کروز کنترل "
+    },
+
+    {
+     "id": 8,
+     "name": " ساینا ",
+     "tedad" : 1,
+     "brand": "saipa",
+     "price" : 500000000,
+     "image": "https://api2.pedal.ir/media/wp-content-uploads-2024-11-Saipa-Saina-2-68615d4ee3eb8e5af3cdc834?w=828&q=80",
+     "features": "رنگ سفید – دنده دستی – سقف فلزی – فرمان هیدرولیک – موتورme15– 2 ایربگ – ترمز ABS  - 4 سیلند – 90 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ فولادی – مانیتور لمسی – کروز کنترل "
+    },
+
+     {
+     "id": 9,
+     "name": " اطلس ",
+     "tedad" : 1,
+     "brand": "saipa",
+     "price" : 600000000,
+     "image": "https://otex.ir/_next/image?url=https%3A%2F%2Fotex.ir%2Fimage-storage%2Fsaipa-atlas-1-xYc.webp&w=640&q=75",
+     "features": "رنگ خاکستری – دنده دستی – سقف فلزی – فرمان هیدرولیک – موتورme15– 2 ایربگ – ترمز ABS  - 4 سیلند – 90 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ فولادی – مانیتور لمسی – کروز کنترل "
+    },
+
+     {
+     "id": 10,
+     "name": " سورن پلاس ",
+     "tedad" : 1,
+     "brand": "irankhodro",
+     "price" : 800000000,
+     "image": "https://akharinkhodro.ir/wp-content/uploads/2023/07/ikco-soren-plus-12.jpg",
+     "features": "رنگ نقره ای – دنده دستی – سقف شیشه ای – فرمان برقی – موتور tu5+ – 2 ایربگ – ترمز ABS  - 4 سیلند – 113 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ فولادی – مانیتور لمسی – کروز کنترل"
+    },
+
+     {
+     "id": 11,
+     "name": "  سهند ",
+     "tedad" : 1,
+     "brand": "saipa",
+     "price" : 600000000,
+     "image": "https://cdn.saranemag.ir/thumbnail/DdcTTHNtEUMW/fFYOv_g61-QYmPAqXuOhh0O6GdInBYt8P8M6OZWR9UvGz6d7OhGe9fHkSA-IDzrY7JQvD5XqUvKd_KmiLZl_9p28JQ2cQ4obk1ipwmtBtOo2JbGzpZS8Se0uJG2pgOKJSz7_VVx9aSUsZGfglXE88g,,/%D8%B3%D9%87%D9%86%D8%AF.jpg",
+     "features": "رنگ سفید – دنده دستی – سقف فلزی – فرمان هیدرولیک – موتورme15– 2 ایربگ – ترمز ABS  - 4 سیلند – 90 اسب بخار – آینه برقی – سیستم تهویه دیجیتال – رینگ فولادی – مانیتور لمسی – کروز کنترل "
+    }
+
+
+  ]
+ 
+}
