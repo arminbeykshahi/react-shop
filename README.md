@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 # Run Api
 
-npm start
+## npm start
 =======
 # React + Vite
 
